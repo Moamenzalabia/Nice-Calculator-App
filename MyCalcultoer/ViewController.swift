@@ -1,8 +1,9 @@
-
+//  MyCalcultoer
+//  Created by mohamed mahmoud zead on 2/24/18.
+//  Copyright © 2018 Mac. All rights reserved.
 
 import UIKit
 import AVFoundation
-
 
 class ViewController: UIViewController {
 
